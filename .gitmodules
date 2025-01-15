@@ -1,0 +1,6 @@
+[submodule "turbin3_prereq_typescript"]
+	path = turbin3_prereq_typescript
+	url = https://github.com/judd1337/turbin3_prereq_typescript.git
+[submodule "turbin3_prereq_rust"]
+	path = turbin3_prereq_rust
+	url = https://github.com/judd1337/turbin3_prereq_rust.git

@@ -7,3 +7,9 @@
 [submodule "solana-starter"]
 	path = solana-starter
 	url = https://github.com/judd1337/solana-starter.git
+[submodule "anchor-vault"]
+	path = anchor-vault
+	url = https://github.com/judd1337/anchor-vault.git
+[submodule "anchor-escrow"]
+	path = anchor-escrow
+	url = https://github.com/judd1337/anchor-escrow.git

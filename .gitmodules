@@ -22,3 +22,9 @@
 [submodule "momentumfi"]
 	path = momentumfi
 	url = https://github.com/judd1337/momentumfi.git
+[submodule "anchor-marketplace"]
+	path = anchor-marketplace
+	url = https://github.com/judd1337/anchor-marketplace.git
+[submodule "anchor-dice-game"]
+	path = anchor-dice-game
+	url = https://github.com/judd1337/anchor-dice-game.git

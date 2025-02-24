@@ -19,3 +19,6 @@
 [submodule "anchor-nft-staking"]
 	path = anchor-nft-staking
 	url = https://github.com/judd1337/anchor-nft-staking.git
+[submodule "momentumfi"]
+	path = momentumfi
+	url = https://github.com/judd1337/momentumfi.git
